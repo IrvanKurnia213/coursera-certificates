@@ -13,7 +13,7 @@
 
 # Learn
 
-![Learn](README/ibm-de-cert.png)
+![Learn](README/ibm-de.jpeg)
 
 <br />
 
@@ -46,3 +46,17 @@
 - [[🔍](https://www.coursera.org/learn/generative-ai-elevate-your-data-engineering-career?specialization=ibm-data-engineer)] [[📃](https://www.coursera.org/account/accomplishments/verify/GIUBJUNQLHS4)] Generative AI: Elevate your Data Engineering Career
 
 - [[🔍](https://www.coursera.org/learn/data-engineering-career-guide-and-interview-preparation?specialization=ibm-data-engineer)] [[📃](https://www.coursera.org/account/accomplishments/verify/F068BFCKQV6F)] Data Engineering Career Guide and Interview Preparation
+
+<br />
+
+![GCP](README/gcp-de.jpeg)
+
+<br />
+
+## Data Engineering, Big Data, and Machine Learning on GCP Specialization [[🔍](https://www.coursera.org/specializations/gcp-data-machine-learning)]
+
+- [[🔍](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals?specialization=gcp-data-machine-learning)] [[📃](https://www.coursera.org/account/accomplishments/verify/DQC2N74SQKXG)] Google Cloud Big Data and Machine Learning Fundamentals
+
+- [[🔍](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-machine-learning)] [[📃](https://www.coursera.org/account/accomplishments/verify/D6DAUERC2XC8)] Modernizing Data Lakes and Data Warehouses with Google Cloud
+
+- [[🔍](https://www.coursera.org/learn/batch-data-pipelines-gcp?specialization=gcp-data-machine-learning)] [[📃](https://www.coursera.org/account/accomplishments/verify/7EWCQJTBYPAH)] Building Batch Data Pipelines on Google Cloud
